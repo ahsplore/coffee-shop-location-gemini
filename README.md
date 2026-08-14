@@ -26,5 +26,6 @@ Public Datasets
       │
       ▼
 Coffee Shop Placement Analysis
+```
 
 > Developed as part of the Google GenAI Academy
