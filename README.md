@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Placement
+# Coffee Shop location Gemini
 
 AI-powered coffee shop placement analysis built using Gemini, BigQuery, Model Context Protocol (MCP), and public datasets to identify potential locations for new coffee shops.
 
