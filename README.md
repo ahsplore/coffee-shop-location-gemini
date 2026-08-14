@@ -13,19 +13,13 @@ AI-powered coffee shop placement analysis built using Gemini, BigQuery, Model Co
 ## Architecture
 
 ```text
+  ADK Agent
+      │
+      ▼
+BigQuery MCP
+      │
+      ▼
 Public Datasets
-      │
-      ▼
-   BigQuery
-      │
-      ▼
-  MCP Server
-      │
-      ▼
-    Gemini
-      │
-      ▼
-Coffee Shop Placement Analysis
 ```
 
 > Developed as part of the Google GenAI Academy
