@@ -22,4 +22,4 @@ BigQuery MCP
 Public Datasets
 ```
 
-> Developed as part of the Google GenAI Academy
+
